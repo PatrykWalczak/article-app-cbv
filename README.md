@@ -7,11 +7,11 @@ application written by using Django framework, contains basic functionality like
 * comment support
 
 
-The application was created while learining Django. Uses Class-based views.
-The main assumption of the application is the ability to create an account, possibility to login, logout and change password or reset password if forgot.
-Also has access to adding posts, editing and deleting them. You can comment on each added post. 
-You can perform each of the described activities only when you are logged in.
-No CSS used, just boostrap. 
+The application was created while learning Django. Uses Class-based views. 
+The main assumption of the application is the ability to create an account, the possibility to log in, log out, and change passwords or reset passwords if forgotten. 
+Also has access to adding posts, editing, and deleting them. 
+You can comment on each added post. You can perform each of the described activities only when logged in. 
+No CSS was used, just bootstrap. 
 
 
 ## Technologies
