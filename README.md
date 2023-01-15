@@ -1,4 +1,4 @@
-## Article Application
+## Article management app
 application written by using Django framework, contains basic functionality like:
 * signup
 * login 
